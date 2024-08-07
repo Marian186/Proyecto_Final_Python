@@ -16,3 +16,6 @@ Este conjunto de datos captura métricas de participación del usuario en una pl
 - `05_Aplicación Práctica del Dataset:` La educación online está en auge, y basta con mirar en internet la gran cantidad de ofertas disponibles. Pero, ¿estas ofertas tienen lo que estamos buscando? ¿Sabemos lo que estamos buscando?
 
 ## Conclusiones
+
+el análisis detallado de las métricas de participación y rendimiento en una plataforma de aprendizaje en línea proporciona una base sólida para mejorar la efectividad de los cursos y la experiencia del usuario. Abordar los desafíos asociados maximiza los beneficios del análisis, permitiendo la implementación de estrategias basadas en datos para el éxito a largo plazo.
+
